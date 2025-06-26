@@ -51,8 +51,8 @@ The resulting dataset contains a variety of questions designed to simulate real 
 
 ## Usage
 
-Run the notebook with dataset upoldaed to start traning
-after traning you can use your own dataset for grading
+Run the notebook with the provided dataset uploaded to start training. After training completes, you can test the model or use your own dataset for grading.
+
 ---
 
 ## Notes
